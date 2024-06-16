@@ -1,2 +1,8 @@
-# Audio_Wave
-This project is a React-based audio player application designed to search for and play audio tracks from Spotify. It offers a clean and responsive user interface, displaying trending tracks on the landing page and enabling users to search for specific tracks using a search bar.
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
